@@ -46,3 +46,4 @@
 - fix: add a note about the defaults
 - fix: fix a small wording issue
 - docs: fix a small wording issue
+- docs: fix a small wording issue
